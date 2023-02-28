@@ -1,0 +1,14 @@
+{
+    "name": "mineflayer-hello-world-bot",
+    "version": "1.0.0",
+    "description": "A Mineflayer bot that says 'Hello world' on spawn and when receiving a chat message containing 'hello'.",
+    "main": "index.js",
+    "dependencies": {
+        "mineflayer": "^4.8.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "ChatGPT",
+    "license": "MIT"
+}
